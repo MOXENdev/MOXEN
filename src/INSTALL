@@ -1,0 +1,9 @@
+Building MOXEN
+
+See doc/readme-qt.rst for instructions on building MOXEN QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of MOXEN.
+
+See doc/build-*.txt for instructions on building MOXENd,
+the intended-for-services, no-graphical-interface, reference
+implementation of MOXEN.
